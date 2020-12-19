@@ -21,7 +21,7 @@ The user should be able to:
 * As a user, I want to be able to view create and track daily workouts. I want to be able to log multiple exercises in a workout on a given day. I should also be able to track the name, type, weight, sets, reps, and duration of exercise. If the exercise is a cardio exercise, I should be able to track my distance traveled.
 
 ### App Video
-![App Video](<iframe src="https://drive.google.com/file/d/13SlOGM6eYKXqsWEF-127h4hli_OgoBvx/preview" width="640" height="480"></iframe>)
+![App Video](https://drive.google.com/file/d/13SlOGM6eYKXqsWEF-127h4hli_OgoBvx/preview)
 
 
 ## Table of contents
