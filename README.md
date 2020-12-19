@@ -1,4 +1,4 @@
-# Unit 17 Nosql Homework: Workout Tracker
+# Unit 17 Fitness Tracker
 
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
@@ -20,7 +20,9 @@ The user should be able to:
 
 * As a user, I want to be able to view create and track daily workouts. I want to be able to log multiple exercises in a workout on a given day. I should also be able to track the name, type, weight, sets, reps, and duration of exercise. If the exercise is a cardio exercise, I should be able to track my distance traveled.
 
-### App screenshot
+### App Video
+![App Video](/public/Fitness-Tracker-Video-AA.mp4)
+
 
 ## Table of contents
 
@@ -34,7 +36,7 @@ The user should be able to:
 
 ## Usage
 
-Go to [Workout Tracker](XXXXXXXXXX) and save your workouts
+Go to [Workout Tracker](https://ashley-anness-fitness-tracker.herokuapp.com/) and save your workouts
 
 ## Licence
 
@@ -47,8 +49,8 @@ Go to [Workout Tracker](XXXXXXXXXX) and save your workouts
 
 ## Repository
 
-- [Project Repo](XXXXXXXXXXXXXX)
-- [Workout Tracker](XXXXXXXXXXXXXXXX)
+- [Project Repo](https://github.com/aanness/Fitness-Tracker)
+- [Workout Tracker](https://ashley-anness-fitness-tracker.herokuapp.com/)
 
 ## GitHub
 
